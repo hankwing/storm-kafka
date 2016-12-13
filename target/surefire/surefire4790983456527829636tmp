@@ -1,0 +1,5 @@
+#surefire
+#Wed Oct 21 10:59:20 CST 2015
+user.dir=E\:\\eclipseWorkSpace\\apache-storm-0.9.5\\external\\storm-kafka
+localRepository=C\:\\Users\\hankwing\\.m2\\repository
+basedir=E\:\\eclipseWorkSpace\\apache-storm-0.9.5\\external\\storm-kafka
